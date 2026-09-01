@@ -72,7 +72,7 @@ export function HeroLanding({
       </section>
 
       <section className="meeting-preview" aria-label="Zoom meeting preview illustration">
-        <div className="preview-bar"><span>zoom</span><div className="preview-dots"><i /><i /><i /></div></div>
+        <div className="preview-bar"><span>connect</span><div className="preview-dots"><i /><i /><i /></div></div>
         <div className="preview-grid">
           <div className="person person--one"><span>BR</span></div><div className="person person--two"><span>JS</span></div><div className="person person--three"><span>AK</span></div><div className="person person--four"><span>MP</span></div>
         </div>
